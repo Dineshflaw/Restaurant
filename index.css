@@ -1,0 +1,122 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.start {
+    background-image: url(restaurant_image/img1.jpeg);
+    height: 500px;
+
+}
+
+.nav {
+    font-weight: bolder;
+}
+
+.fs {
+    font-family: 'Grand Hotel', cursive;
+    color: rgb(225, 179, 11);
+    margin-top: 40px;
+    font-size: 100px;
+
+}
+
+.fs1 {
+    font-weight: bolder;
+    color: white;
+}
+
+.fss {
+    font-family: 'Grand Hotel', cursive;
+
+}
+
+.fsss {
+    font-family: 'Grand Hotel', cursive;
+    font-size: 50px;
+    color: rgb(225, 179, 11);
+
+}
+
+.img {
+    border-radius: 150px;
+    width: 200px;
+    margin-left: 45px;
+}
+
+.back {
+    background-image: url(restaurant_image/img6.png);
+    height: 600px;
+    background-size: cover;
+    margin-top: 100px;
+
+}
+
+.img3 {
+    border-radius: 130px;
+    width: 250px;
+    margin-top: 250px;
+    margin-left: 60px;
+}
+
+.heigh {
+    margin-top: 250px;
+}
+
+.center {
+    background-image: url(restaurant_image/img10.jpg);
+    height: 400px;
+    margin-top: -50px;
+}
+
+.bot {
+    border-radius: 250px;
+    width: 120px;
+    height: 120px;
+}
+
+.half {
+    background-image: url(restaurant_image/cropp.jpg);
+    height: 500px;
+}
+
+.grill {
+    font-family: 'Grand Hotel', cursive;
+    color: rgb(225, 179, 11);
+    font-size: 80px;
+
+}
+
+.gril {
+    margin-left: 90px;
+}
+
+.img4 {
+    border-radius: 300px;
+    margin-left: 270px;
+    margin-top: 60px;
+}
+
+.balu {
+    margin-top: 2750px;
+    padding: 40px 60px 10px 60px;
+}
+
+.end {
+    background-image: url(restaurant_image/img9.jpg);
+    height: 500px;
+    padding-top: 90px;
+}
+
+.fot {
+    padding-left: 60px;
+    margin-top: 70px;
+}
+
+.fot img {
+    padding-right: 10px;
+}
+
+.fot1 {
+    padding-top: 70px;
+}
